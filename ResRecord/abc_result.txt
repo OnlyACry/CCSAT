@@ -1,0 +1,47 @@
+c432.aig: ABC command line: "cec benchmarks/aig/aigall/c432.aig benchmarks/aig/aigall/aigmod/c432.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.00 sec
+
+c6288.aig: ABC command line: "cec benchmarks/aig/aigall/c6288.aig benchmarks/aig/aigall/aigmod/c6288.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.03 sec 
+
+c7552.aig: ABC command line: "cec benchmarks/aig/aigall/c7552.aig benchmarks/aig/aigall/aigmod/c7552.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.00 sec
+
+ctrl_miter.aig: ABC command line: "cec benchmarks/aig/aigall/ctrl_miter.aig benchmarks/aig/aigall/aigmod/ctrl_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.01 sec
+
+i2c_miter.aig: ABC command line: "cec benchmarks/aig/aigall/i2c_miter.aig benchmarks/aig/aigall/aigmod/i2c_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.01 sec
+
+int2float_miter.aig: ABC command line: "cec benchmarks/aig/aigall/int2float_miter.aig benchmarks/aig/aigall/aigmod/int2float_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.01 sec
+
+max_miter.aig: ABC command line: "cec benchmarks/aig/aigall/max_miter.aig benchmarks/aig/aigall/aigmod/max_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.04 sec
+
+multiplier_miter.aig: ABC command line: "cec benchmarks/aig/aigall/multiplier_miter.aig benchmarks/aig/aigall/aigmod/multiplier_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.03 sec
+
+priority_miter.aig: ABC command line: "cec benchmarks/aig/aigall/priority_miter.aig benchmarks/aig/aigall/aigmod/priority_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.01 sec
+
+router_miter.aig: ABC command line: "cec benchmarks/aig/aigall/router_miter.aig benchmarks/aig/aigall/aigmod/router_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.01 sec
+
+sqrt_miter.aig: ABC command line: "cec benchmarks/aig/aigall/sqrt_miter.aig benchmarks/aig/aigall/aigmod/sqrt_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.02 sec
+
+square_miter.aig: ABC command line: "cec benchmarks/aig/aigall/square_miter.aig benchmarks/aig/aigall/aigmod/square_miter.aig".
+
+Networks are NOT EQUIVALENT.  Time =     0.19 sec

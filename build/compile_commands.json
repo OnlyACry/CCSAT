@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/build",
+  "command": "/usr/bin/g++ -DCMAKE_DEBUG_INFO=1 -I/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code  -O3 -g -o CMakeFiles/cirsat.dir/Solver/Solver.cpp.o -c /mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code/Solver/Solver.cpp",
+  "file": "/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code/Solver/Solver.cpp"
+},
+{
+  "directory": "/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/build",
+  "command": "/usr/bin/g++ -DCMAKE_DEBUG_INFO=1 -I/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code  -O3 -g -o CMakeFiles/cirsat.dir/Solver/main.cpp.o -c /mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code/Solver/main.cpp",
+  "file": "/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code/Solver/main.cpp"
+},
+{
+  "directory": "/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/build",
+  "command": "/usr/bin/g++ -DCMAKE_DEBUG_INFO=1 -I/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code  -O3 -g -o CMakeFiles/cirsat.dir/Circuit/Circuit.cpp.o -c /mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code/Circuit/Circuit.cpp",
+  "file": "/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code/Circuit/Circuit.cpp"
+},
+{
+  "directory": "/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/build",
+  "command": "/usr/bin/g++ -DCMAKE_DEBUG_INFO=1 -I/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code  -O3 -g -o CMakeFiles/cirsat.dir/Circuit/Parser.cpp.o -c /mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code/Circuit/Parser.cpp",
+  "file": "/mnt/d/DESKTOP/SAT/CircuitSAT/aa_circuitSAT/Code/Circuit/Parser.cpp"
+}
+]

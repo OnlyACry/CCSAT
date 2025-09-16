@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -g CMakeFiles/cirsat.dir/Solver/Solver.cpp.o CMakeFiles/cirsat.dir/Solver/main.cpp.o CMakeFiles/cirsat.dir/Circuit/Circuit.cpp.o CMakeFiles/cirsat.dir/Circuit/Parser.cpp.o -o cirsat 

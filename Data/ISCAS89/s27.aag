@@ -1,0 +1,40 @@
+aag 26 7 0 1 19
+2
+4
+6
+8
+10
+12
+14
+53
+16 12 3
+18 15 5
+20 18 8
+22 21 17
+24 23 11
+26 25 2
+28 17 9
+30 19 17
+32 31 29
+34 32 11
+36 35 2
+38 35 24
+40 34 25
+42 41 39
+44 36 27
+46 37 26
+48 47 45
+50 48 42
+52 50 42
+i0 G0
+i1 G1
+i2 G2
+i3 G3
+i4 G5
+i5 G6
+i6 G7
+o0 miter
+c
+benchmarks/bench/ISCAS89/aig/s27_benchmarks/bench/ISCAS89/aig/s27_miter
+This file was written by ABC on Mon Oct 28 10:45:53 2024
+For information about AIGER format, refer to http://fmv.jku.at/aiger
